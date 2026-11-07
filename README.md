@@ -10,7 +10,7 @@ Projeto focado em **Análise de Custos e Gestão Financeira para Transportadoras
 | :--- | :--- |
 | [`data/fretes_2026.csv`](data/fretes_2026.csv) | Base de dados mensal com faturamento, terceiros, combustível e manutenção. |
 | [`scripts/analisar_fretes.py`](scripts/analisar_fretes.py) | Script em Python com Pandas para apurar custos, lucro e margem operacional. |
-| [📊 Planilha Operacional](https://github.com/isaiasbenig07-tech/analise-de-log-fret/blob/principal/dados/transportadora-gestao-fretes-lucro.xlsx) | Planilha Excel com o modelo de gestão de fretes, faturamento e custos da transportadora. |
+| [📊 Planilha Operacional](https://github.com/isaiasbenig07-tech/analise-de-log-fret/blob/principal/data/transportadora-gestao-fretes-lucro.xlsx) | Planilha Excel com o modelo de gestão de fretes, faturamento e custos da transportadora. |
 
 ---
 
